@@ -53,7 +53,7 @@ user.name=avinash-7562
 ---------------------
 
 empty commit to check user got updated in github:
-===================
+==================================================
 girij@Girija_Nulu MINGW64 ~/avinash_devops/devops-learning (main)
 $ git commit -m "empty_commit"
 On branch main
