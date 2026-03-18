@@ -16,7 +16,7 @@ Testing
 Deployment (Deploy to prod)
 Maintainance and Monitoring
 
-![SDLC Lifecycle](images/Phases-of-sdlc-1024x739.png)
+![SDLC Lifecycle](images/Phases-of-sdlc.png)
 
 Waterfall vs Agile vs Agile with Devops:
 =========================================
