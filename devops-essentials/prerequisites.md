@@ -104,5 +104,10 @@ While connecting to any server what it will ask??
 
 # if we stop the instance still we get charged because of data(Storage) inside of it so terminate the instance after usage
 
+We need not to delete keypairs and security groups in aws they will not get charged
 
-
+ec2 instance connection troubleshooting:
+-----------------------------------------
+1. file or directory not found - refer the key either by absolute or relative path
+2. in security group check inbound and outbound rules - all traffic, all ports, source 0.0.0.0/0
+3. keypair - while importing no newline
